@@ -1,0 +1,200 @@
+/* header */
+.tetecolor a {
+    color: #34a9c0;
+    font-family: cooper;
+    margin-top: 35px;
+    font-size: 25px;
+    
+ }
+ .logot {
+     width: 170px;
+ }
+
+
+
+ /* body */
+
+ /* footer */
+ /* footer */
+ .fif img{
+    height: auto;
+    width: 100px;
+}
+.pop {
+    display: flex;
+}
+.bic {
+    font-family: cooper;
+    color: #efe70c;
+    font-weight: bold;
+    font-size: 27px;
+    margin-bottom: 20px;
+
+}
+footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+}
+.foot1 {
+    background-color: black;
+    margin-top: 50px;
+}
+.foot2 {
+    height: 50px;
+    width: 130px;
+}
+.foot3 {
+    margin-left: 50%;
+}
+/* body navbar */
+.page-top {
+    background-color: #34a9c0;
+    border-radius: 0% 70px 70px 0%;
+    width: 60%;
+}
+.delimiter:before, .page-header-8 .delimiter:before {
+   content: "/\00a0";
+   position: relative;
+   right: -2px;
+}
+.page-top span {
+   text-decoration: none;
+   color: black;
+ 
+}
+.page-top a {
+   text-decoration: none;
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+}
+  
+.yot {
+   font-family: cooper;
+   font-size: 20px;
+
+}
+/* realisation */
+.real{
+    /* display: flex !important; */
+}
+/* services */
+.rol{
+    display: flex;
+}
+/* .real img{ */
+    height: auto;
+    width: 100%;
+}
+.naruto{
+    
+ 
+}
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* baord 1 */
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+.id{
+    height: auto;
+    width: 80%;
+    margin:5px;
+    border: solid 10px orange;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    
+
+}
+.bid{
+    display: flex;
+    background-color: #efe70c;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+.nub1{
+    margin-top: 20px;
+}
+.cef{
+    height: 400px;
+    width: 70%;
+}

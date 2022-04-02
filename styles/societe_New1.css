@@ -1,0 +1,112 @@
+/* header */
+.tetecolor a {
+    color: #34a9c0;
+    font-family: cooper;
+    margin-top: 35px;
+    font-size: 25px;
+    
+    
+ }
+ .logot {
+     width: 170px;
+ }
+
+ /* body */
+ /* body navbar */
+ .page-top {
+     background-color: #34a9c0;
+     border-radius: 0% 70px 70px 0% ;
+     width: 50%;
+ }
+ .page-title-wrap a {
+color: white;!important
+ }
+ 
+ .delimiter:before, .page-header-8 .delimiter:before {
+    content: "/\00a0";
+    position: relative;
+    right: -2px;
+}
+.page-top span {
+    text-decoration: none;
+    color: black;
+}
+.page-top a {
+    text-decoration: none;
+}
+.yot {
+    font-family: cooper;
+    
+}
+.epi{
+    height: 200px;
+    width: 200px;
+}
+.epi1{
+    display: flex;
+}
+#alim{
+    
+margin-right: 20px;
+}
+.tidi p {
+    color: black;
+    margin-top: 100px;
+}
+.tidi1 {
+  margin-left: 90px; 
+
+}
+.tidi2 {
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#sarr {
+    width: 900px !important;
+    height: 300px !important;
+}
+.sel{
+    background-color: #efe70c;
+    font-family: cooper;
+}
+.nemila1{
+    text-align: center;
+    font-family: cooper;
+    margin-top: 20px;
+}
+.nemila{
+    text-align: center;
+    font-family: cooper;
+}
+.fif img{
+    height: auto;
+    width: 100px;
+}
+.pop {
+    display: flex;
+}
+
+.bic {
+    font-family: cooper;
+    color: #efe70c;
+    font-weight: bold;
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+footer a {
+    text-decoration: none;
+    color: white !important;
+    font-size: 20px;
+   
+}
+.foot1 {
+    background-color: black;
+    margin-top: 50px;
+}
+.foot2 {
+    height: 50px;
+    width: 130px;
+}
+.foot3 {
+    margin-left: 50%;
+}

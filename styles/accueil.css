@@ -1,0 +1,122 @@
+.tetecolor a {
+   color: #34a9c0;
+   font-family: cooper;
+   margin-top: 35px;
+   font-size: 25px;
+   
+}
+.logot {
+    width: 170px;
+}
+/* body */
+.tetecolor a:hover {
+    border-bottom: solid 3px #efe70c ;
+
+}
+.cou h2{
+    background-color: #fff67f ;
+    color: black;
+    backface-visibility: 50%;
+   opacity: 0.5;
+  
+}
+.img1 {
+    max-width: 100% !important;
+    height: auto !important;
+    width: 1000px !important;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+    margin:0px 5%;
+}
+.poitrine img {
+    width: auto !important;
+    height: 100px !important;
+}
+.bar {
+    display: flex;
+}
+.parto {
+    display: flex;
+}
+.icc{
+    display: flex !important;
+}
+.ic {
+    height: 150px !important;
+    width: 250px !important;
+    margin: 0px 2% !important;
+}
+.parto1{
+    background-color: #efe70c ;
+    height: 230px;
+    margin-top: 50px;
+  }
+
+   
+   
+.ptr {
+    font-family: cooper;
+    margin-left: 4% !important;
+    color: #34a9c0;
+}
+.ttr {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cooper;
+}
+.patrol2 {
+    background-color: #efe70c ;
+    margin: 0px 5%;
+    margin-top: 40px;
+    padding: 8px 0px;
+}
+ /* footer */
+ .fif img{
+    height: auto;
+    width: 100px;
+}
+.pop {
+    display: flex;
+}
+.bic {
+    font-family: cooper;
+    color: #efe70c;
+    font-weight: bold;
+    font-size: 27px;
+    margin-bottom: 20px;
+
+}
+footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+   
+}
+.foot1 {
+    background-color: black;
+    margin-top: 50px;
+}
+.foot2 {
+    height: 50px;
+    width: 130px;
+}
+.foot3 {
+    margin-left: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* retouche  */

@@ -1,0 +1,39 @@
+.tetecolor a {
+    color: #34a9c0;
+    font-family: cooper;
+    margin-top: 35px;
+    font-size: 25px;
+    
+ }
+ .logot {
+     width: 170px;
+ }
+ /* body */
+ /* body apropos */
+ .page-top {
+    background-color: #efe70c;
+    border-radius: 0% 50% 50% 0% ;
+    width: 70%;
+}
+.delimiter:before, .page-header-8 .delimiter:before {
+   content: "/\00a0";
+   position: relative;
+   right: -2px;
+}
+.page-top span {
+   text-decoration: none;
+   color: black;
+ 
+}
+.page-top a {
+   text-decoration: none;
+   font-size: 20px;
+   font-weight: bold;
+}
+  
+.yot {
+   font-family: cooper;
+   font-size: 20px;
+
+}
+/* organisation de notre equipe */
