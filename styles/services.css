@@ -52,7 +52,7 @@ footer a {
 .page-top {
     background-color: #34a9c0;
     border-radius: 0% 70px 70px 0%;
-    width: 60%;
+    width: 50%;
 }
 .delimiter:before, .page-header-8 .delimiter:before {
    content: "/\00a0";
