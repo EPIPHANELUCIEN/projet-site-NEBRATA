@@ -246,3 +246,24 @@ footer a {
 .foot3 {
     margin-left: 50%;
 }
+.tete{
+  position: fixed !important;
+  z-index: 0 !important;
+  width: 100%;
+  top: 6px;
+  background-color: white !important;
+}
+/* .cou {
+  z-index: -1 !important;
+  position: relative;
+} */
+.xd{
+  position: relative !important;
+  z-index: -9999999 !important;
+}
+body{
+  margin-top: 120px !important;
+}
+.ko{
+  z-index: 0 !important;
+}
